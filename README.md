@@ -26,3 +26,9 @@ This repository serves as:
 ---
 
 Made with ❤️ for learning and growing as a developer.
+
+---
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
