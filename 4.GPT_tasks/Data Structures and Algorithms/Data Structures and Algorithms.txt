@@ -1,0 +1,11 @@
+Data Structures and Algorithms
+ - Find duplicates in an array; +
+ - Reverse a string; +
+ - Check if a string is a palindrome;
+ - Sort an array (Bubble/Quick/Merge sort);
+ - Implement a stack or queue manually;
+ - Fibonacci with/without recursion
+ - Parse a string with arithmetic operations;
+ - Bracket balance check;
+ - Find the first non-repeating character;
+ - LINQ: find users older than 30 and group them by city

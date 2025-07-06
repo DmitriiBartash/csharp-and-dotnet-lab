@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFChat", "WCFChat.csproj", "{5A47A744-31CC-46B0-ABC2-A58849D6E866}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatHost", "..\ChatHost\ChatHost.csproj", "{05910FB1-2644-4E09-B21F-F3984ED4E782}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatClient", "..\ChatClient\ChatClient.csproj", "{7521C65E-77DE-4919-B72C-E9737E3B646D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A47A744-31CC-46B0-ABC2-A58849D6E866}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A47A744-31CC-46B0-ABC2-A58849D6E866}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A47A744-31CC-46B0-ABC2-A58849D6E866}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A47A744-31CC-46B0-ABC2-A58849D6E866}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05910FB1-2644-4E09-B21F-F3984ED4E782}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05910FB1-2644-4E09-B21F-F3984ED4E782}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05910FB1-2644-4E09-B21F-F3984ED4E782}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05910FB1-2644-4E09-B21F-F3984ED4E782}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7521C65E-77DE-4919-B72C-E9737E3B646D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7521C65E-77DE-4919-B72C-E9737E3B646D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7521C65E-77DE-4919-B72C-E9737E3B646D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7521C65E-77DE-4919-B72C-E9737E3B646D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59ADC205-B9FF-4C45-B475-97130A55BDF4}
+	EndGlobalSection
+EndGlobal
