@@ -63,4 +63,12 @@ public class Program
             Num = myClass.Num * 2
         };
     }
+
+    // To actually change the reference (i.e., assign a new object and reflect that change outside the method),
+    // we must pass the parameter using the 'ref' keyword.
+    // This allows the method to modify the caller's reference, not just the local copy.
+    // Example usage:
+    // MethodD(ref myClassObj);
+    // and the method signature must be:
+    // private static void MethodD(ref MyClass myClass)
 }
