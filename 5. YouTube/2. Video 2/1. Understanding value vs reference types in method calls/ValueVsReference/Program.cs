@@ -72,3 +72,4 @@ public class Program
     // and the method signature must be:
     // private static void MethodD(ref MyClass myClass)
 }
+

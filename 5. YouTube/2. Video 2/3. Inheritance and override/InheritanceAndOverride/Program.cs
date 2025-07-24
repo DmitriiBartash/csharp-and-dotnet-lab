@@ -56,3 +56,4 @@ public class ChildClass : BaseClass
         Console.WriteLine("Child");
     }
 }
+
