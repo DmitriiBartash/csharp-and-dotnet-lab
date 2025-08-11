@@ -58,7 +58,11 @@ namespace WCFChat
 
             if (sender != null)
             {
-                prefix += ": " + sender.Name + " ";
+                prefix += $": {sender.Name}: ";   
+            }
+            else
+            {
+                prefix += ": ";
             }
 
             string finalMessage = prefix + message;
